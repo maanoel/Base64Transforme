@@ -1,0 +1,16 @@
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\bin\Debug\netcoreapp3.1\Base64Transforme.exe
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\bin\Debug\netcoreapp3.1\Base64Transforme.deps.json
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\bin\Debug\netcoreapp3.1\Base64Transforme.runtimeconfig.json
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\bin\Debug\netcoreapp3.1\Base64Transforme.runtimeconfig.dev.json
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\bin\Debug\netcoreapp3.1\Base64Transforme.dll
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\bin\Debug\netcoreapp3.1\Base64Transforme.pdb
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.csproj.AssemblyReference.cache
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.Form1.resources
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.csproj.GenerateResource.cache
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.AssemblyInfoInputs.cache
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.AssemblyInfo.cs
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.csproj.CoreCompileInputs.cache
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.dll
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.pdb
+C:\Users\manoel.vitor\source\repos\Base64Transforme\Base64Transforme\obj\Debug\netcoreapp3.1\Base64Transforme.genruntimeconfig.cache

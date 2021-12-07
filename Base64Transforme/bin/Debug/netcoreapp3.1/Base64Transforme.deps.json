@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Base64Transforme/1.0.0": {
+        "runtime": {
+          "Base64Transforme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Base64Transforme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
